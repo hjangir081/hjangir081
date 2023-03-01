@@ -8,7 +8,7 @@
 
 <p  align="left">  <img  src="https://komarev.com/ghpvc/?username=rat9910&label=Profile%20views&color=0e75b6&style=flat"  alt="aditya"  />  </p>
 
-<p  align="left">  <a  href="https://twitter.com/Adityakrjha9577"  target="blank"><img  src="https://img.shields.io/twitter/follow/aditya?logo=twitter&style=for-the-badge"  alt="aditya"  /></a>  </p>
+<p  align="left">  <a  href="https://twitter.com/hjangir081"  target="blank"><img  src="https://img.shields.io/twitter/follow/aditya?logo=twitter&style=for-the-badge"  alt="himanshu"  /></a>  </p>
 
 - 🔭 I 'm **Frontend Web Developer**
 
@@ -24,9 +24,9 @@
 
 <p  align="left">
 
-<a  href="https://twitter.com/Adityakrjha9577"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="aditya"  height="30"  width="40"  /></a>
+<a  href="https://twitter.com/hjangir081"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="himanshu"  height="30"  width="40"  /></a>
 
-<a  href="https://www.linkedin.com/in/strangercoder/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="aditya"  height="30"  width="40"  /></a>
+<a  href="https://www.linkedin.com/in/himanshu-jangir-4a798a217/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="aditya"  height="30"  width="40"  /></a>
 
 <a  href="https://www.instagram.com/adityajha_112/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="aditya"  height="30"  width="40"  /></a>
 
