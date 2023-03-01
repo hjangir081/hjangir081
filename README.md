@@ -26,9 +26,9 @@
 
 <a  href="https://twitter.com/hjangir081"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="himanshu"  height="30"  width="40"  /></a>
 
-<a  href="https://www.linkedin.com/in/himanshu-jangir-4a798a217/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="aditya"  height="30"  width="40"  /></a>
+<a  href="https://www.linkedin.com/in/himanshu-jangir-4a798a217/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="himanshu"  height="30"  width="40"  /></a>
 
-<a  href="https://www.instagram.com/adityajha_112/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="aditya"  height="30"  width="40"  /></a>
+<a  href="https://www.instagram.com/_himanshu0017_/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="himanshu"  height="30"  width="40"  /></a>
 
 </p>
 
