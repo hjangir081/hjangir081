@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React Js**
 
-- 📫 How to reach me **hjangir081@gmail.com**
+- 📫 How to reach me **himanshujangir033@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
