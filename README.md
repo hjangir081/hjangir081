@@ -1,4 +1,4 @@
-[![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1154083/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png)](https://rishavchanda.io)
+[![MasterHead]([https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1154083/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fradixweb.com%2Fwhat-is-flutter&psig=AOvVaw2av4D0lqSz7ULwldSwQalS&ust=1719940644216000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj89a-shocDFQAAAAAdAAAAABAE))](https://rishavchanda.io)
 
 <h1  align="center">Hi 👋, I'm Himanshu Jangir</h1>
 
@@ -6,19 +6,19 @@
 
 <img  align="right"  alt="Coding"  width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p  align="left">  <img  src="https://komarev.com/ghpvc/?username=rat9910&label=Profile%20views&color=0e75b6&style=flat"  alt="aditya"  />  </p>
+<p  align="left">  <img  src="https://komarev.com/ghpvc/?username=rat9910&label=Profile%20views&color=0e75b6&style=flat"  alt="himanshu"  />  </p>
 
 <p  align="left">  <a  href="https://twitter.com/hjangir081"  target="blank"><img  src="https://img.shields.io/twitter/follow/hjangir081?logo=twitter&style=for-the-badge"  alt="himanshu"  /></a>  </p>
 
-- 🔭 I 'm **Frontend Web Developer**
+- 🔭 I 'm **Flutter Developer**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working on **Mobile App Development**
 
-- 💬 Ask me about **React Js**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **himanshujangir033@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Developer**
 
 <h3  align="left">Connect with me:</h3>
 
