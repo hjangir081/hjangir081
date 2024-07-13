@@ -4,7 +4,7 @@
 
 <h3  align="center">A passionate Frontend Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11419536-Deep-Working?utm_source=Clipboard_Shot&utm_campaign=katalea02&utm_content=Deep%20Working&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=katalea02&utm_content=Deep%20Working&utm_medium=Social_Share.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15633275-Workspace?utm_source=Clipboard_Shot&utm_campaign=mernaz_ze&utm_content=Workspace&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=mernaz_ze&utm_content=Workspace&utm_medium=Social_Share.gif">
 
 <p  align="left">  <img  src="https://komarev.com/ghpvc/?username=rat9910&label=Profile%20views&color=0e75b6&style=flat"  alt="himanshu"  />  </p>
 
