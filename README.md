@@ -1,4 +1,4 @@
-[![MasterHead]([https://dummyimage.com/600x200/000/fff](https://cdn.prod.website-files.com/6377bf360873283fad488724/638ca82a95fb434e6f42a283_Flutter.png))](https://rishavchanda.io)
+[![MasterHead](https://cdn.prod.website-files.com/6377bf360873283fad488724/638ca82a95fb434e6f42a283_Flutter.png)](https://rishavchanda.io)
 
 <h1  align="center">Hi 👋, I'm Himanshu Jangir</h1>
 
