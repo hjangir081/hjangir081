@@ -1,48 +1,31 @@
-[![MasterHead](https://cdn.prod.website-files.com/6377bf360873283fad488724/638ca82a95fb434e6f42a283_Flutter.png)](https://rishavchanda.io)
 
-<h1  align="center">Hi 👋, I'm Himanshu Jangir</h1>
+# Hey 👋, I'm [Himanshu Jangir!](https://github.com/hjangir081)
 
-<h3  align="center">A passionate Frontend Developer from India</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15633275-Workspace?utm_source=Clipboard_Shot&utm_campaign=mernaz_ze&utm_content=Workspace&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=mernaz_ze&utm_content=Workspace&utm_medium=Social_Share.gif">
+<a href="https://x.com/SumitJangir03" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sumit-jangir-056057253/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sumit_.jangir/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jangirsumit609@gmail.com)
 
-<p  align="left">  <img  src="https://komarev.com/ghpvc/?username=rat9910&label=Profile%20views&color=0e75b6&style=flat"  alt="himanshu"  />  </p>
+</div>
 
-<p  align="left">  <a  href="https://twitter.com/hjangir081"  target="blank"><img  src="https://img.shields.io/twitter/follow/hjangir081?logo=twitter&style=for-the-badge"  alt="himanshu"  /></a>  </p>
+## A Passionate Front-End Developer from India
 
-- 🔭 I 'm **Flutter Developer**
+<br>
 
-- 🌱 I’m currently working on **Mobile App Development**
+- 🌱 I’m currently learning Full-Stack Developement
 
-- 💬 Ask me about **Flutter**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 📫 How to reach me **himanshujangir033@gmail.com**
+- 📫 How to reach me **jangirsumit609@gmail.com**
 
-- ⚡ Fun fact **JavaScript turning coffee into code since 1995**
+# [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sumit-Jangir)](https://github.com/Sumit-Jangir)
 
-<h3  align="left">Connect with me:</h3>
+# 💻 Tech Stack:
 
-<p  align="left">
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<a  href="https://twitter.com/hjangir081"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="himanshu"  height="30"  width="40"  /></a>
-
-<a  href="https://www.linkedin.com/in/himanshu-jangir-4a798a217/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="himanshu"  height="30"  width="40"  /></a>
-
-<a  href="https://www.instagram.com/_himanshu0017_/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="himanshu"  height="30"  width="40"  /></a>
-
+<p>
+ &nbsp; &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Jangir&theme=dark" alt="Sumit-jangir" />
 </p>
-
-<h3  align="left">Languages and Tools:</h3>
-
-<p  align="left">  <a  href="https://aws.amazon.com/amplify/"  target="_blank"  rel="noreferrer">  
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap"  width="40"  height="40"/>  </a>  <a  href="https://www.cprogramming.com/"  target="_blank"  rel="noreferrer">  
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  alt="c"  width="40"  height="40"/>  </a>  <a  href="https://www.w3schools.com/cpp/"  target="_blank"  rel="noreferrer">   
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3"  width="40"  height="40"/>  </a>  <a  href="https://dart.dev"  target="_blank"  rel="noreferrer">   </a>  
-<img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  alt="firebase"  width="40"  height="40"/>  </a>     <a  href="https://git-scm.com/"  target="_blank"  rel="noreferrer"> 
-<img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git"  width="40"  height="40"/>  </a>  <a  href="https://graphql.org"  target="_blank"  rel="noreferrer">    '
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5"  width="40"  height="40"/>  </a>   <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"  rel="noreferrer">  
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/>  </a>  <a  href="https://www.python.org"  target="_blank"  rel="noreferrer">  
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/>  </a>  <a  href="https://reactjs.org/"  target="_blank"  rel="noreferrer"> 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react"  width="40"  height="40"/>  </a> <a  href="https://redux.js.org"  target="_blank"  rel="noreferrer">  
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  alt="redux"  width="40"  height="40"/>  </a>  <a  href="https://tailwindcss.com/"  target="_blank"  rel="noreferrer">  
-<img  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  alt="tailwind"  width="40"  height="40"/>   </p>
