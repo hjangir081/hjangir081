@@ -14,7 +14,7 @@
 
 <br>
 
-- 🌱 I’m currently working Flutter Development
+- 🌱 I’m currently working as a Flutter Developer
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
