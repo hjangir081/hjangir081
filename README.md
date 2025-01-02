@@ -10,7 +10,7 @@
 
 </div>
 
-## A Passionate Front-End Developer from India
+## A Passionate Flutter Developer from India
 
 <br>
 
