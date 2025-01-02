@@ -14,9 +14,9 @@
 
 <br>
 
-- 🌱 I’m currently working Mobile App Development
+- 🌱 I’m currently working Flutter Development
 
-- 👯 I’m looking to collaborate on **Mobile App Projects**
+- 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 📫 How to reach me **himanshujangir033@gmail.com**
 
